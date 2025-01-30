@@ -39,6 +39,7 @@ const course={
     price:"1000"
 }
 
+
 console.log(course.price);
 
 
